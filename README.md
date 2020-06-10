@@ -15,8 +15,7 @@ aliyun.oss.file.keysecret=
 aliyun.oss.file.bucketname=
 
 ## swagger执行步骤
-![image](https://github.com/wangzhan6666/image/blob/master/aliyun-oss/%E6%9C%80%E7%BB%88%E6%95%88%E6%9E%9C.png)
-
+![image](https://github.com/wangzhan6666/image/blob/master/aliyun-oss/swagger%E6%B5%8B%E8%AF%95%E6%AD%A5%E9%AA%A4.png)
 
 ## 最终效果
-![image](https://github.com/wangzhan6666/image/blob/master/aliyun-oss/swagger%E6%B5%8B%E8%AF%95%E6%AD%A5%E9%AA%A4.png)
+![image](https://github.com/wangzhan6666/image/blob/master/aliyun-oss/%E6%9C%80%E7%BB%88%E6%95%88%E6%9E%9C.png)
